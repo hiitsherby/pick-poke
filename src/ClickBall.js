@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import PokeIndex from './PokeIndex'
+import PokeIndex from './PokeIndex';
 
 class ClickBall extends Component{
     constructor(props){
@@ -47,7 +47,6 @@ class ClickBall extends Component{
             </h5>
             <PokeIndex
               getImg={this.state.img}
-              getImg2={this.state.img2}
               getName={this.state.name}
               done={this.state.done}
             />

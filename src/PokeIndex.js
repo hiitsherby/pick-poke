@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-const PokeIndex =  ({getImg, getImg2, getName, done}) => (
+const PokeIndex =  ({getImg, getName, done}) => (
             <div>
               <div className="imgBoard">
                 <img style={{display: done? 'none':'block'}} className="loading" src="https://qzprod.files.wordpress.com/2015/04/loading.gif?w=320"/>
