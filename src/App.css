@@ -7,9 +7,9 @@
     }
     .loading{
       margin-left: 160px !important;
-      margin-top: 30px !important;
+      margin-top: 80px !important;
       width:50px;
-      height:auto; 
+      height:50px; 
     }
 }
 
@@ -71,9 +71,9 @@
 
 .loading{
   margin-left: 48%;
-  margin-top: 7%;
+  margin-top: 30px;
   width:50px;
-  height:auto; 
+  height:50px; 
 }
 
 /*.pokeImg{*/
