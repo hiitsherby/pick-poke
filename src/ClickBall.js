@@ -40,7 +40,7 @@ class ClickBall extends Component{
               <a href="#" onClick={this.pickNumber}>
               <img src="http://pngimg.com/uploads/pokeball/pokeball_PNG8.png" className="App-logo" alt="logo" />
               </a>
-              <h1 className="App-title">Welcome to Pokemon Drawer</h1>
+              <h1 className="App-title">Welcome to Pick Poke</h1>
             </header>
             <h5 className="App-intro">
               Click the Pokeball above to meet your Pokemon.
